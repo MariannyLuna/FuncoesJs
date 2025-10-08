@@ -85,6 +85,6 @@ cost diminuir =  (x,  y)  => x  –  y;
 
 - organizar os códigos em blocos separando por tipo de tarefa.
 
-* Páginas Web Interativas.
+- Páginas Web Interativas.
 
-*Criação e Manutenção de Aplicações: 
+- Criação e Manutenção de Aplicações: 
