@@ -40,7 +40,7 @@ function multiplicar(x, y) {
 
 ------------------------------------------------------------------------------------------------------------------------
 ```
-###E ela também pode ser invocada antes de ser declarada no código por causa do hoisting.
+### E ela também pode ser invocada antes de ser declarada no código por causa do *hoisting*.
 # O que é hoisting?
 
  >É um comportamento do JS onde a declaração de variável/var são realocadas para o topo durante a leitura do código, permitindo sua utilização antes da atribuição de valor dessa mesma variável. Que fica registrada como undefined ou indefinido caso ela seja acessada antes de ter sido atribuído um valor.
